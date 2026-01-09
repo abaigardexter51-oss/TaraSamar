@@ -19,7 +19,7 @@ const destinations = [
   {
     id: "1",
     name: "Biri Island Rock Formations",
-    location: "Biri, Northern Samar",
+    location: "Biri, Samar",
     category: "Islands",
     description: "Marvel at nature's masterpiece with unique limestone formations shaped by wind and waves over thousands of years. Biri Island is home to some of the most spectacular rock formations in the Philippines, each with its own unique shape and local legend.",
     longDescription: "The Biri Rock Formations are a collection of stunning geological wonders located on the northern tip of Biri Island. These magnificent limestone formations have been sculpted by the relentless pounding of waves and wind over millions of years, creating otherworldly shapes that seem to defy gravity. Each formation has been given a name by locals based on its appearance - from Magasang Rock that resembles a giant mushroom to Caranas Rock with its dramatic overhangs.",

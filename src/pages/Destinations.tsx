@@ -20,7 +20,7 @@ const destinations = [
   {
     id: 1,
     name: "Biri Island Rock Formations",
-    location: "Biri, Northern Samar",
+    location: "Biri, Samar",
     image: biriImage,
     category: "Islands",
     description: "Marvel at nature's masterpiece with unique limestone formations shaped by wind and waves over thousands of years.",
